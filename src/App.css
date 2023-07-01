@@ -1,0 +1,22 @@
+.btn-transaksi
+{
+                     
+                    transition: all ease 1s;
+
+
+}
+
+.btn-transaksi:hover a
+{
+                      color: aliceblue;
+                      font-size: 20px;
+}    
+
+.btn-transaksi a
+{
+                    text-decoration: none;
+                    color: black;
+                    font-weight: bolder;
+                    font-variant: small-caps;
+                    transition: all ease 1s;
+}
